@@ -1,13 +1,12 @@
 <img width="1041" height="802" alt="Image" src="https://github.com/user-attachments/assets/97ef18e8-8a6b-4ced-a584-dcb366222050" />
-# input-light
-<img width="1757" height="961" alt="Image" src="https://github.com/user-attachments/assets/b63173aa-98aa-40ae-82ef-bf06c67b7a3d" />
+# christmas-cart-postal
 
-## 🚀 [Demo Project](https://mirasholding1011-ai.github.io/input-light/)
+## 🚀 [Demo Project](https://github.com/mirasholding1011-ai/christmas-cart-postal2/)
 
 👩‍💻 Developed by **Miras Dev**  
 🗓️ Created — **December 2025**  
 
-🛠️ **Technologies Used:** Javascript • html •css  
+🛠️ **Technologies Used:** • html •css  
 
 
 📫 **How to reach us:**  
